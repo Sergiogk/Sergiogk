@@ -21,7 +21,7 @@ My name is Ganesh Kadam. I am a Network Administrator and Story Writer. I am fro
 
 
 
-## &#x270d; Content Creation & Vlogging
+## &#x270d; Content Creation & Blogging
 
 Apart Network Admin , I also make tracking videos. You can check the out on My YouTube
 
