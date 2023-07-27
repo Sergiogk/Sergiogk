@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Ganesh Kadam. I am a Network Administrator and Story Writer. I am from India, live in Pune, and work at Semantic.
+My name is Ganesh Kadam. I am a DevOps Engineer and Story Writer. I am from India, live in Pune, and work at Semantic.
 
 
 
