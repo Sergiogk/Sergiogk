@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Ganesh Kadam. I am a Network Administrator and Story Writer. I am from india, living in Pune and working at Semantic.
+My name is Ganesh Kadam. I am a Network Administrator and Story Writer. I am from India, live in Pune, and work at Semantic.
 
 
 
 ## &#x270d; Content Creation & Blogging
 
-Apart Network Admin , I also make tracking videos. You can check the out on My YouTube
+Aside from being a DevOps Engineer and Network Administrator, I also create tracking videos. You can check it out on My YouTube channel.
 
 
 
